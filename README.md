@@ -1,2 +1,2 @@
-# travel_app_GFG_strudent_version
+# travel_app
 Travel App
